@@ -1,4 +1,5 @@
 # important
+Before Run this Program open AssaultCube First
 This program only works with version 1.3.0.
 Hold "A" to aimbot
 
