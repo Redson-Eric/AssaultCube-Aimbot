@@ -1,6 +1,8 @@
 # important
-Before Run this Program open AssaultCube first.\n
-This program only works with version 1.3.0.\n
+Before Run this Program open AssaultCube first.
+
+This program only works with version 1.3.0.
+
 Hold "A" to aimbot
 
 # AssaultCube-Aimbot
@@ -8,12 +10,16 @@ This is a program (C++) that does a simple aimbot to target the closest enemy.
 
 # Offsets
 localPlayer = 0x57e0a8;
+
 entityArray = 0x58AC04; // next entity +0x04
+
 playerNumber = 0x591fd4; // Bot Only
 
 # Pointers
 headPosition = {0x04, 0x08, 0x0c}; // X, Y, Z
+
 Ammo = 0x138;
+
 Name = 0x205;
 
 # Image
