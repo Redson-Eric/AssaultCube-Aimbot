@@ -1,6 +1,6 @@
 # important
-Before Run this Program open AssaultCube First
-This program only works with version 1.3.0.
+Before Run this Program open AssaultCube first.\n
+This program only works with version 1.3.0.\n
 Hold "A" to aimbot
 
 # AssaultCube-Aimbot
