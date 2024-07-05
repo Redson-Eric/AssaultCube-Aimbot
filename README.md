@@ -1,4 +1,4 @@
-# important
+# Important
 Before Run this Program open AssaultCube first.
 
 This program only works with version 1.3.0.
